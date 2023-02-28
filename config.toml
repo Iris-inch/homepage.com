@@ -5,6 +5,7 @@ hasCJKLanguage = true
 title = 'ShinOno'
 theme = "hugo-theme-learn"
 contentDir = "content"
+publishDir = "docs"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
