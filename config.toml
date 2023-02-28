@@ -6,6 +6,7 @@ title = 'ShinOno'
 theme = "hugo-theme-learn"
 contentDir = "content"
 publishDir = "docs"
+canonifyurls = true
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
