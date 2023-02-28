@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ShinOno</title>
-    <link>http://shinono.org/</link>
+    <link>https://iris-inch.github.io/homepage.com/</link>
     <description>Recent content on ShinOno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Feb 2023 13:53:10 +0900</lastBuildDate><atom:link href="http://shinono.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 13:53:10 +0900</lastBuildDate><atom:link href="https://iris-inch.github.io/homepage.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>http://shinono.org/posts/hello/</link>
+      <link>https://iris-inch.github.io/homepage.com/posts/hello/</link>
       <pubDate>Mon, 27 Feb 2023 14:05:31 +0900</pubDate>
       
-      <guid>http://shinono.org/posts/hello/</guid>
+      <guid>https://iris-inch.github.io/homepage.com/posts/hello/</guid>
       <description>Basics hello!!
 Discover what this Hugo theme is all about and the core-concepts behind it.</description>
     </item>
     
     <item>
       <title>Super</title>
-      <link>http://shinono.org/posts/super/</link>
+      <link>https://iris-inch.github.io/homepage.com/posts/super/</link>
       <pubDate>Mon, 27 Feb 2023 18:07:15 +0900</pubDate>
       
-      <guid>http://shinono.org/posts/super/</guid>
+      <guid>https://iris-inch.github.io/homepage.com/posts/super/</guid>
       <description>HiC-Proの導入において苦戦したため解説を残しておく。 HiC-Proのインストールは、Conda, Docker, Singularityを用いることで</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>http://shinono.org/posts/test/</link>
+      <link>https://iris-inch.github.io/homepage.com/posts/test/</link>
       <pubDate>Mon, 27 Feb 2023 17:56:24 +0900</pubDate>
       
-      <guid>http://shinono.org/posts/test/</guid>
+      <guid>https://iris-inch.github.io/homepage.com/posts/test/</guid>
       <description>作成</description>
     </item>
     
