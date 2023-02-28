@@ -1,4 +1,4 @@
-baseURL = 'http://shinono.org/'
+baseURL = 'https://iris-inch.github.io/homepage.com/'
 languageCode = 'ja'
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
